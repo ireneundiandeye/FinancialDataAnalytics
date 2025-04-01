@@ -1,6 +1,6 @@
 ![head.png](figures/head.jpg)
 
-# Financial Data Analytics in Python 2024
+# Financial Data Analytics in Python
 
 **Prof. Dr. Fabian Woebbeking**</br>
 Assistant Professor of Financial Economics
@@ -80,7 +80,8 @@ git pull
 ## Reading
 
 This course is predominantly hands on and draws from several subject areas, such as financial economics, data science or textual analysis. As such, there exists no single text book recommendation. Relevant 'reading' material is linked in the script. That being said, resources include but are not limited to:
-* "Python for Finance" (Yves Hilpisch)
+* ["Python Data Science Handbook" (Jake VanderPlas)](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* ["Python for Finance" (Yves Hilpisch)](https://github.com/yhilpisch/py4fi2nd)
 * "Data Analysis for Business, Economics, and Policy" (Gabor Bekes, Gabor Kezdi)
 * "Applied Text Analysis with Python" (Benjamin Bengfort, Rebecca Bilbro, Tony Ojeda)
 * "The big short" (A. McKay)
