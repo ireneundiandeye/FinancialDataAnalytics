@@ -125,7 +125,7 @@ The deadlines for all deliverables are tracked through their commit timestamps. 
 
 ## Structure
 
-### Part 1: Introduction ([slides_pt1.ipynb](https://github.com/cafawo/FinancialDataAnalytics/blob/master/slides_pt1.ipynb))
+### Part 1: Introduction ([slides_pt1.ipynb](https://github.com/cafawo/FinancialDataAnalytics/blob/master/slides.ipynb))
 
 * Discussion of grading scheme
 * Setting up the tech
