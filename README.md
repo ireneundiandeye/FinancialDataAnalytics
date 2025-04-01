@@ -43,7 +43,7 @@ This course consists of both lectures and accompanying tutorial sessions. The sc
 
 ## Important links
 
-* [Course repository](https://github.com/iwh-halle/FinancialDataAnalytics)
+* [Course repository](https://github.com/cafawo/FinancialDataAnalytics)
 * [GitHub classroom](https://classroom.github.com/a/SAilgt2b)
 * [Stud.IP page](https://studip.uni-halle.de/dispatch.php/course/details?sem_id=5a9defd4ce9b514471199574c12ee710&again=yes)
 
@@ -70,7 +70,7 @@ FinancialDataAnalytics/
 
 You can view or download the materials directly from GitHub, using the link above, or you can clone the repository using
 ```Bash
-git clone https://github.com/iwh-halle/FinancialDataAnalytics.git
+git clone https://github.com/cafawo/FinancialDataAnalytics.git
 ```
 Make sure to update the repository regularly, especially before a lecture, using
 ```Bash
@@ -100,8 +100,8 @@ The grading policy is discussed in detail during the first lecture.
 * Presentation: 30%
 * Bonus points: + 15%
   * StudySnips: https://studysnips.eu.pythonanywhere.com/
-  * Participation in GitHub discussions: https://github.com/iwh-halle/FinancialDataAnalytics/discussions
-  * Bug bounty (pull requests): https://github.com/iwh-halle/FinancialDataAnalytics/pulls
+  * Participation in GitHub discussions: https://github.com/cafawo/FinancialDataAnalytics/discussions
+  * Bug bounty (pull requests): https://github.com/cafawo/FinancialDataAnalytics/pulls
 
 ### How to submit your work
 
@@ -125,7 +125,7 @@ The deadlines for all deliverables are tracked through their commit timestamps. 
 
 ## Structure
 
-### Part 1: Introduction ([slides.ipynb](https://github.com/iwh-halle/FinancialDataAnalytics/blob/master/slides.ipynb))
+### Part 1: Introduction ([slides_pt1.ipynb](https://github.com/cafawo/FinancialDataAnalytics/blob/master/slides_pt1.ipynb))
 
 * Discussion of grading scheme
 * Setting up the tech
@@ -184,4 +184,5 @@ The deadlines for all deliverables are tracked through their commit timestamps. 
 ### Case study: TBA
 
 ## Disclaimer:
+
 This syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary.
