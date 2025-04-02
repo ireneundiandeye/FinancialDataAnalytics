@@ -44,8 +44,11 @@ This course consists of both lectures and accompanying tutorial sessions. The sc
 ## Important links
 
 * [Course repository](https://github.com/cafawo/FinancialDataAnalytics)
-* [GitHub classroom](https://classroom.github.com/a/SAilgt2b)
 * [Stud.IP page](https://studip.uni-halle.de/dispatch.php/course/details?sem_id=5a9defd4ce9b514471199574c12ee710&again=yes)
+* [Support (Q&A)](https://github.com/cafawo/FinancialDataAnalytics/discussions)
+
+* Homework/case submission:
+  * [01_setup](https://classroom.github.com/a/xNnDzJ6-)
 
 
 ## Materials
@@ -100,7 +103,7 @@ The grading policy is discussed in detail during the first lecture.
 * Presentation: 30%
 * Bonus points: + 15%
   * StudySnips: https://studysnips.eu.pythonanywhere.com/
-  * Participation in GitHub discussions: https://github.com/cafawo/FinancialDataAnalytics/discussions
+  * Quality answers in GitHub discussions: https://github.com/cafawo/FinancialDataAnalytics/discussions
   * Bug bounty (pull requests): https://github.com/cafawo/FinancialDataAnalytics/pulls
 
 ### How to submit your work
