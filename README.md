@@ -49,6 +49,7 @@ This course consists of both lectures and accompanying tutorial sessions. The sc
 
 * Homework/case submission:
   * [01_setup](https://classroom.github.com/a/xNnDzJ6-)
+  * [02_python](https://classroom.github.com/a/8wg20wgb)
 
 
 ## Materials
